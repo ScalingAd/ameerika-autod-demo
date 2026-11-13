@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ameerika-autod",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["scripts/serve.mjs", "8771"],
+      "port": 8771
+    }
+  ]
+}

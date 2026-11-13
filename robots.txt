@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /aitah/
+
+Sitemap: https://ameerikaautod.ee/sitemap.xml
